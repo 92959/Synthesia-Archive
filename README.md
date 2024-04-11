@@ -1,6 +1,6 @@
-# Synthesia-Archive
+# Synthesia Archive
 
-Synthesia Archive for Windows and MacOS compiled from several sources
+A Synthesia Archive compiled from several sources
 
 All versions are uploaded to this repository instead of direct links to other download sources.
 
@@ -13,3 +13,5 @@ If you are using macOS, [go here](https://github.com/92959/Synthesia-Archive/tre
 If you are using Windows, [go here](https://github.com/92959/Synthesia-Archive/tree/main/Windows).
 
 If you are using Android, go to the "Releases" tab.
+
+If you are using iOS, go here.
