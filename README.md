@@ -11,3 +11,5 @@ Most of the versions here are also provided via [Synthesia's own website](https:
 If you are using macOS, [go here](https://github.com/92959/Synthesia-Archive/tree/main/macOS).
 
 If you are using Windows, [go here](https://github.com/92959/Synthesia-Archive/tree/main/Windows).
+
+If you are using Android, go to the "Releases" tab.
